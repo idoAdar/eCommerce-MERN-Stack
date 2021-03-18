@@ -1,0 +1,72 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main {
+  padding: 1rem 0;
+}
+
+.card {
+  margin: 1rem;
+  padding: 1rem;
+  height: 70vh;
+}
+
+.checkout_container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+.margin_tb {
+  margin: 1rem 0;
+}
+
+.step {
+  margin: 1rem 0;
+}
+
+.small_img {
+  width: 3rem;
+}
+
+.orderSummaryCard {
+  height: auto;
+}
+
+.row {
+  display: flex;
+}
+
+.img_medium {
+  padding: 1rem;
+  margin: auto;
+  width: 20rem;
+  border-radius: 50%;
+}
+
+.carousel {
+  background: #343a40;
+  border-radius: 5px;
+}
+
+.carousel h3 {
+  color: #fff;
+  text-align: center;
+  margin-top: 1rem;
+  font-size: 18px;
+}
+
+.carousel p {
+  margin: 1rem auto;
+  font-size: 12px;
+  color: #fff;
+  text-align: center;
+  width: 75%;
+}
+
+.carousel li {
+  display: none;
+}
